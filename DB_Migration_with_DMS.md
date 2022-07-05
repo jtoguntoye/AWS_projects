@@ -298,6 +298,7 @@ You have provisioned an RDS DB Instance
 And you have used DMS to perform a simple migration of the database from on-premises (simulated) to AWS
 
 
+### Account Clean up
 
 ### STAGE 5A - EC2
 Move to the EC2 Console https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances:
